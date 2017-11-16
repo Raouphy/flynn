@@ -1,0 +1,356 @@
+
+
+header {
+
+
+display: grid;
+margin: 0 auto;
+width: 1024px;
+grid-template-columns: 50% 50%;
+grid-template-rows: 100px;
+align-items: center;
+
+
+}
+
+.ele1{
+
+  font-family:
+"League Spartan", "Helvetica Neue", Helvetica, Arial, sans-serif
+;
+font-size:
+1.6em
+;
+font-weight:
+bold;
+color:
+rgb(30, 180, 93)
+;
+
+}
+
+.ele2{
+
+
+}
+
+
+
+.ele2 li {
+
+  display: inline;
+  list-style: none;
+  padding: 1em;
+  color: rgb(27, 180, 94);
+  font-family:"League Spartan", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-decoration-style: solid;
+  Font-Weight: Bold;
+  font-size:17.6px;
+}
+
+.btn1 {
+    padding: 0.88em 1.36em;
+    padding-top: 0.82em;
+    border-radius: 1.82em;
+    display: inline;
+    background-color: #1bb45e;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+
+.haut{
+
+  display: grid;
+  margin: 0 auto;
+  width: 1024px;
+  height: 793px;
+  grid-template-rows: 22% auto;
+  align-items: center;
+  justify-items: center;
+
+
+}
+
+
+.haut p{
+
+  font-family:"League Spartan", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight:bold;
+  font-size: 5em;
+  margin: 0;
+
+}
+
+.h1 {
+
+  padding-left: 150px;
+}
+
+
+video{
+
+  width: 80%;
+  margin-left: 10%;
+}
+
+
+.mid{
+
+
+  display: grid;
+  margin: 0 auto;
+  width: 1024px;
+  height: 54px;
+  grid-template-columns: 33% 33% 33%;
+
+
+
+
+}
+
+
+
+.a1{
+  background-color:rgba(0, 0, 0, 0);
+  box-sizing:border-box;
+  color:rgb(27, 180, 94);
+  cursor:auto;
+  display:block;
+  font-family: Montserrat-Bold, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:22px;
+  height:100%;
+  line-height:22px;
+  list-style-image:none;
+  list-style-position:outside;
+  list-style-type:none;
+  padding-bottom:16px;
+  padding-left:16px;
+  padding-right:16px;
+  padding-top:16px;
+  text-align:center;
+  text-decoration-color:rgb(27, 180, 94);
+  text-decoration-line:none;
+  text-decoration-style:solid;
+  text-size-adjust:100%;
+  width:100%;
+  border: 2px solid #a1a1a1;
+  Font-Weight: Bold;
+
+}
+
+.a2{
+  background-color:rgba(0, 0, 0, 0);
+  box-sizing:border-box;
+  color:rgb(27, 180, 94);
+  cursor:auto;
+  display:block;
+  font-family: Montserrat-Bold, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:22px;
+  height:100%;
+  line-height:22px;
+  list-style-image:none;
+  list-style-position:outside;
+  list-style-type:none;
+  padding-bottom:16px;
+  padding-left:16px;
+  padding-right:16px;
+  padding-top:16px;
+  text-align:center;
+  text-decoration-color:rgb(27, 180, 94);
+  text-decoration-line:none;
+  text-decoration-style:solid;
+  text-size-adjust:100%;
+  width:100%;
+  border: 2px solid #a1a1a1;
+  Font-Weight: Bold;
+
+}
+
+.a3{
+  background-color:rgba(0, 0, 0, 0);
+  box-sizing:border-box;
+  color:rgb(27, 180, 94);
+  cursor:auto;
+  display:block;
+  font-family: Montserrat-Bold, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:22px;
+  height:100%;
+  line-height:22px;
+  list-style-image:none;
+  list-style-position:outside;
+  list-style-type:none;
+  padding-bottom:16px;
+  padding-left:16px;
+  padding-right:16px;
+  padding-top:16px;
+  text-align:center;
+  text-decoration-color:rgb(27, 180, 94);
+  text-decoration-line:none;
+  text-decoration-style:solid;
+  text-size-adjust:100%;
+  width:100%;
+  border: 2px solid #a1a1a1;
+  Font-Weight: Bold;
+
+}
+
+.bot{
+
+  display: grid;
+  margin: 0 auto;
+  width: 1024px;
+  height: 500px;
+  align-items: center;
+  justify-items: center;
+  grid-template-rows: 22% auto;
+  margin-top: 50px;
+  align-items: start;
+
+}
+
+
+.bot1 p{
+
+  font-family:"League Spartan", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight:bold;
+  font-size: 3.2em;
+  margin: 0;
+
+
+}
+
+
+.p1{
+
+  box-sizing:border-box;
+  color:rgb(114, 114, 114);
+  font-family:VarelaRound, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:20px;
+  font-weight:bold;
+  height:auto;
+  line-height:31.5px;
+  text-size-adjust:100%;
+  width:auto;
+  margin-top: 30px;
+}
+
+.p2{
+
+  font-family:VarelaRound, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  box-sizing:border-box;
+  color:rgb(114, 114, 114);
+  font-size:18px;
+}
+
+
+a{
+
+  text-decoration: none;
+}
+
+.bot2{
+
+margin-left: 230px;
+
+}
+
+
+
+.ul1 li {
+
+  color: rgb(114, 114, 114);
+  font-family:Helvetica, Arial, sans-serif;
+  padding-top: 30px;
+}
+
+
+
+.bot3{
+
+  display: grid;
+  margin: 0 auto;
+  width: 1024px;
+  align-items: center;
+  justify-items: center;
+  margin-top: 40px;
+}
+
+
+.btn2{
+
+background-color:rgb(27, 180, 94);
+border-bottom-left-radius:44px;
+border-bottom-right-radius:44px;
+border-top-left-radius:44px;
+border-top-right-radius:44px;
+box-sizing:border-box;
+color:rgb(255, 255, 255);
+cursor:auto;
+display:inline-block;
+font-family:"League Spartan", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size:22px;
+height:63.2031px;
+line-height:60.06px;
+margin-bottom:64.02px;
+margin-top:64.02px;
+padding-bottom:0px;
+padding-left:27.5px;
+padding-right:27.5px;
+padding-top:3.212px;
+text-align:center;
+text-decoration-color:rgb(255, 255, 255);
+text-decoration-line:none;
+text-decoration-style:solid;
+text-size-adjust:100%;
+width:219.75px;
+}
+
+
+.bot4{
+
+  display: grid;
+  margin: 0 auto;
+  width: 1024px;
+
+  align-items: center;
+  justify-items: center;
+  grid-template-rows: 22% auto;
+
+  align-items: start;
+
+}
+
+.p3{
+  box-sizing:border-box;
+  font-family:VarelaRound, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:3.2em;
+  font-weight:bold;
+
+
+  text-size-adjust:100%;
+
+  margin-top: 20px;
+
+}
+
+.p4{
+  font-family:VarelaRound, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-left: 150px;
+  padding-left: 110px;
+  font-size:3em;
+  font-weight:bold;
+}
+
+
+
+.p5{
+  font-family:VarelaRound, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  box-sizing:border-box;
+  color:rgb(114, 114, 114);
+  font-size:18px;
+  padding-left: 120px;
+
+
+}
